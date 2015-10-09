@@ -1,0 +1,8 @@
+c:\Users\mdillon\Documents\Visual Studio 2015\Projects\EtcdPrototype\EtcdWcf\bin\Debug\EtcdWcf.dll
+c:\Users\mdillon\Documents\Visual Studio 2015\Projects\EtcdPrototype\EtcdWcf\bin\Debug\EtcdWcf.pdb
+c:\Users\mdillon\Documents\Visual Studio 2015\Projects\EtcdPrototype\EtcdWcf\bin\Debug\etcetera.dll
+c:\Users\mdillon\Documents\Visual Studio 2015\Projects\EtcdPrototype\EtcdWcf\bin\Debug\RestSharp.dll
+c:\Users\mdillon\Documents\Visual Studio 2015\Projects\EtcdPrototype\EtcdWcf\bin\Debug\RestSharp.xml
+c:\Users\mdillon\Documents\Visual Studio 2015\Projects\EtcdPrototype\EtcdWcf\obj\Debug\EtcdWcf.csprojResolveAssemblyReference.cache
+c:\Users\mdillon\Documents\Visual Studio 2015\Projects\EtcdPrototype\EtcdWcf\obj\Debug\EtcdWcf.dll
+c:\Users\mdillon\Documents\Visual Studio 2015\Projects\EtcdPrototype\EtcdWcf\obj\Debug\EtcdWcf.pdb

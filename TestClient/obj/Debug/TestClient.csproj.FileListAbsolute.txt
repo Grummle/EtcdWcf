@@ -1,0 +1,9 @@
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestClient\bin\Debug\TestClient.exe
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestClient\bin\Debug\TestClient.pdb
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestClient\bin\Debug\TestService.dll
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestClient\bin\Debug\TestService.pdb
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestClient\obj\Debug\TestClient.exe
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestClient\obj\Debug\TestClient.pdb
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestClient\bin\Debug\etcetera.dll

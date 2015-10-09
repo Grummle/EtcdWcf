@@ -1,0 +1,9 @@
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestService\bin\TestService.dll.config
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestService\bin\TestService.dll
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestService\bin\TestService.pdb
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestService\obj\Debug\TestService.dll
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestService\obj\Debug\TestService.pdb
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestService\bin\etcetera.dll
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestService\bin\RestSharp.dll
+C:\Users\mdillon\documents\visual studio 2015\Projects\EtcdPrototype\TestService\bin\RestSharp.xml
